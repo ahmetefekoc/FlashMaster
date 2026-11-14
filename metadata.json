@@ -1,0 +1,6 @@
+{
+  "name": "Pekiştir — Aralıklı Tekrar ve Flashcard Stüdyosu",
+  "description": "SM-2 aralıklı tekrar algoritması, Leitner kutu sistemi, yazarak hatırlama, çoktan seçmeli sınav, eşleştirme oyunu ve öğrenme analitiği sunan kapsamlı flashcard uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
